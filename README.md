@@ -11,7 +11,7 @@ Hello! I’m a passionate Geophysics undergraduate student at **Gadjah Mada Univ
 ## 🔬 Research & Skills
 - **Research Focus:** I enjoy delving into complex geophysical topics and studying various geological processes to understand the Earth better.
 - **Skills:** 
-  - **Geological Sketching:** Creating detailed and accurate geological maps and diagrams.
+  - **Geological Sketching:** Crafting detailed and accurate sketches of geological outcrops and formations.
   - **Academic Writing:** Producing well-researched essays and papers on geosciences and geological phenomena.
 
 ## 📬 Contact
